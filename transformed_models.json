@@ -1,0 +1,8 @@
+[
+  {
+    "name": "YOLOx Nano",
+    "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yolox_nano.tflite",
+    "labels_url": "https://github.com/SyedFarhan110/Object-detection-/raw/refs/heads/main/app/src/main/assets/yoloLabels.txt",
+    "type": "yolox"
+  }
+]
